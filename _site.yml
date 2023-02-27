@@ -1,0 +1,14 @@
+name: "Genomic Epi"
+navbar:
+  title: "Krisandra Allen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: about.html
+    - text: "Presentations"
+      href: presentations.html
+output:
+  html_document:
+    theme:
+      bootswatch: minty

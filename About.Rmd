@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+* Oltean, H. N., **Allen, K.J.**, Frisbie, L., Lunn, S. M., Torres, L.M., Manahan, L., Painter, I., Russell, D., Singh, A., Peterson, J.M., Grant, K., Peter, C., Cao, R., Garcia, K., Mackellar, D., Jones, L., Halstead, H., Gray, H., Melly, G., Nickerson, D., Starita, L., Frazar, C., Greninger, A.L., Roychoudhury, P., Mathias, P.C., Kalnoski, M.H., Ting, C.N., Lykken, M., Rice, T., Gonzalez-Robles, D., Bina, D., Johnson, K., Wiley, C.L., Magnuson, S. C., Parsons, C. M., Chapman, E. D., Valencia, C. A., Fortna, R. R., Wolgamot, G., Hughes, J.P., Baseman, J.G., Bedford, T. and Lindquist, S.
+**Sentinel Surveillance System Implementation and Evaluation for SARS-CoV-2 Genomic Data, Washington, USA, 2020–2021**.
+*Emerging Infectious Diseases*, Centers for Disease Control and Prevention (CDC), 2023, Vol. 29(2), pp. 242-251. doi https://doi.org/10.3201/eid2902.221482
+
+* Paredes, M.I., Lunn, S. M., Famulare, M., Frisbie, L.A., Painter, I., Burstein, R., Roychoudhury, P., Xie, H., Bakhash, S.A.M., Perez, R., Lukes, M., Ellis, S., Sathees, S., Mathias, P.C., Greninger, A., Starita, L.M., Frazar, C.D., Ryke, E., Zhong, W., Gamboa, L., Threlkeld, M., Lee, J., McDermot, E., Truong, M., Nickerson, D.A., Bates, D.L., Hartman, M. E., Haugen, E., Nguyen, T.N., Richards, J.D., Rodriguez, J.L., Stamatoyannopoulos, J.A., Thorland, E., Melly, G., Dykema, P.E., MacKellar, D.C., Gray, H.K., Singh, A., Peterson, J. M., Russell, D., Torres, L.M., Lindquist, S., Bedford, T., **Allen, K. J.** and Oltean, H.N.
+**Associations Between Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Variants and Risk of Coronavirus Disease 2019 (COVID-19) Hospitalization Among Confirmed Cases in Washington State: A Retrospective Cohort Study**.
+*Clinical Infectious Diseases*, Oxford University Press (OUP), 2022, Vol. 75(1), pp. e536-e544. doi: https://doi.org/10.1093/cid/ciac279
+
+* Schwensohn, C., Nsubuga, J., Cronquist, L., Jose, G., Mastel, L., McCullough, L., Smith, L., Powell, M., Booth, H., **Allen, K.**, Classon, A. and Gieraltowski, L.
+**A Multiple-Serotype Outbreak of *Salmonella* Infections Linked to Kratom, United States, 2017-2018**.
+*Foodborne Pathogens and Disease*, Mary Ann Liebert Inc, 2022, Vol. 19(9), pp. 648-653. doi https://doi.org/10.1089/fpd.2022.0013
+
+* Swoveland, J. L., Stewart, L. K., Eckmann, M.K., Gee, R., **Allen, K.J.**, Vandegrift, C.M., Olson, G., Kang, M.G., Tran, M.L., Melius, E., Hiatt, B., Gautom, R.K. and Perez-Osorio, A.C.
+**Laboratory Review of Foodborne Disease Investigations in Washington State 2007–2017**.
+*Foodborne Pathogens and Disease*, Mary Ann Liebert Inc, 2019, Vol. 16(7), pp. 513-523. doi: https://doi.org/10.1089/fpd.2018.2592
+
+* Crowe, S.J., Bottichio, L., Shade, L.N., Whitney, B.M., Corral, N., Melius, B., Arends, K.D., Donovan, D., Stone, J., **Allen, K.**, Rosner, J., Beal, J., Whitlock, L., Blackstock, A., Wetherington, J., Newberry, L. A., Schroeder, M. N., Wagner, D., Trees, E., Viazis, S., Wise, M.E. and Neil, K.P.
+**Shiga Toxin-Producing *E. coli* Infections Associated with Flour**.
+*New England Journal of Medicine*, Massachusetts Medical Society, 2017, Vol. 377(21), pp. 2036-2043. doi: https://doi.org/10.1089/fpd.2022.0013
+
+* Patryn, J., **Allen, K.**, Dziewanowska, K., Otto, R. and Hartzell, P.L.
+**Localization of MglA, an essential gliding motility protein in *Myxococcus xanthus***.
+*Cytoskeleton*, Wiley Online Library, 2010, Vol. 67(5), pp. 322-337. doi: https://doi.org/10.1002/cm.20447

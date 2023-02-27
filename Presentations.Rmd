@@ -1,0 +1,12 @@
+---
+title: "Presentations"
+---
+* **Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response**  
+University of Idaho Institute for Interdisciplinary Data Science Seminar  
+https://www.youtube.com/watch?v=2EX9l30bWFU
+
+* **Walking through Nextstrain Trees**  
+https://www.youtube.com/watch?v=lFmtfnDGbo4
+
+* **ATG, GAC, What Can Sequencing Do For Me?**  
+https://www.youtube.com/watch?v=CUznUQINlKk
